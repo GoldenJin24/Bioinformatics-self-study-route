@@ -8,6 +8,15 @@
 - 学习路线图：
 - 资源推荐
   - 基础知识：线性代数，概率论和数理统计，微积分等；linux，Python，R等；细胞生物学，生物化学，免疫学等；深度学习，机器学习等
+
+```
+#环境配置，设备推荐
+1.windows系统新手基础软件，环境安装
+https://github.com/GoldenJin24/The-basic-operation-of-a-new-computer
+
+```
+
+
 ```
 #基础知识
 1.krahets(github id)——数据结构
@@ -15,6 +24,8 @@ https://www.hello-algo.com/chapter_preface/about_the_book/
 2.线性代数——《线性代数及其应用（机械工业出版社）》
 3.菜鸟教程——Python，Linux学习
 4.机器学习西瓜书
+5.信息论课程
+https://www.bilibili.com/video/BV1kE411E7HX?p=4&vd_source=2d43a2b523bdc656d5ec18e5231d85c3
 ```
 ```
 #生物信息学，基因组学概念相关
@@ -34,6 +45,8 @@ https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.999.0.0&vd_source=2
 https://www.bilibili.com/video/BV1if4y147hS/?spm_id_from=333.337.search-card.all.click&vd_source=2d43a2b523bdc656d5ec18e5231d85c3
 3.生信技能树——微信公众号
 略
+4.蓝斯诺特——Pytorch教程和入门
+https://www.bilibili.com/video/BV17X4y1H7dK/?spm_id_from=333.999.0.0&vd_source=2d43a2b523bdc656d5ec18e5231d85c3
 4.scverse（b站id）——单细胞转录组（scRNA-seq）全流程分析-最佳实践
 https://www.bilibili.com/video/BV1m34y1i7Vf/?spm_id_from=333.999.0.0&vd_source=2d43a2b523bdc656d5ec18e5231d85c3
 5.单细胞测序实战
